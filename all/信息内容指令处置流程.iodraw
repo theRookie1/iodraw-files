@@ -99,7 +99,7 @@
         <mxCell id="nEzHigjqXRDDXlZDjFwO-28" value="根据要求进行清理、屏蔽等" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="694" y="600" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nEzHigjqXRDDXlZDjFwO-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#7EA6E0;" edge="1" parent="1" source="nEzHigjqXRDDXlZDjFwO-29">
+        <mxCell id="nEzHigjqXRDDXlZDjFwO-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#7EA6E0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nEzHigjqXRDDXlZDjFwO-29" target="nEzHigjqXRDDXlZDjFwO-13">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="80" y="450" as="targetPoint" />
           </mxGeometry>
@@ -107,7 +107,7 @@
         <mxCell id="nEzHigjqXRDDXlZDjFwO-29" value="形成书面反馈" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="694" y="780" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nEzHigjqXRDDXlZDjFwO-35" value="重置指令处置时间为10分钟内" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="nEzHigjqXRDDXlZDjFwO-35" value="重置指令处置时间为10分钟内" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="370" y="545" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
