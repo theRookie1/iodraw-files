@@ -18,9 +18,6 @@
         <mxCell id="nEzHigjqXRDDXlZDjFwO-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nEzHigjqXRDDXlZDjFwO-2" target="nEzHigjqXRDDXlZDjFwO-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="nEzHigjqXRDDXlZDjFwO-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nEzHigjqXRDDXlZDjFwO-2" target="nEzHigjqXRDDXlZDjFwO-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="nEzHigjqXRDDXlZDjFwO-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nEzHigjqXRDDXlZDjFwO-2" target="nEzHigjqXRDDXlZDjFwO-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -38,6 +35,12 @@
         </mxCell>
         <mxCell id="nEzHigjqXRDDXlZDjFwO-5" value="重要指令" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="379" y="510" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nEzHigjqXRDDXlZDjFwO-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="nEzHigjqXRDDXlZDjFwO-6" target="nEzHigjqXRDDXlZDjFwO-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nEzHigjqXRDDXlZDjFwO-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nEzHigjqXRDDXlZDjFwO-6" target="nEzHigjqXRDDXlZDjFwO-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nEzHigjqXRDDXlZDjFwO-6" value="指令分级" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="510" width="100" height="30" as="geometry" />
