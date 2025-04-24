@@ -19,6 +19,9 @@
         <mxCell id="nEzHigjqXRDDXlZDjFwO-5" value="重要指令" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="510" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="nEzHigjqXRDDXlZDjFwO-6" value="指令分级" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="510" width="100" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
