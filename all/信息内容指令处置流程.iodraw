@@ -99,7 +99,7 @@
         <mxCell id="nEzHigjqXRDDXlZDjFwO-28" value="根据要求进行清理、屏蔽等" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="694" y="600" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nEzHigjqXRDDXlZDjFwO-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nEzHigjqXRDDXlZDjFwO-29">
+        <mxCell id="nEzHigjqXRDDXlZDjFwO-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#7EA6E0;" edge="1" parent="1" source="nEzHigjqXRDDXlZDjFwO-29">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="80" y="450" as="targetPoint" />
           </mxGeometry>
