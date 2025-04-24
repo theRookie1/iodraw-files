@@ -22,6 +22,9 @@
         <mxCell id="nEzHigjqXRDDXlZDjFwO-6" value="指令分级" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="510" width="100" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="nEzHigjqXRDDXlZDjFwO-7" value="风控专员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="680" y="415" width="120" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
