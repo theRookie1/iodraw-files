@@ -21,11 +21,17 @@
         <mxCell id="nEzHigjqXRDDXlZDjFwO-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nEzHigjqXRDDXlZDjFwO-2" target="nEzHigjqXRDDXlZDjFwO-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="nEzHigjqXRDDXlZDjFwO-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nEzHigjqXRDDXlZDjFwO-2" target="nEzHigjqXRDDXlZDjFwO-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="nEzHigjqXRDDXlZDjFwO-2" value="指令联络人" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="200" y="410" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nEzHigjqXRDDXlZDjFwO-3" value="风控专员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="540" y="505" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nEzHigjqXRDDXlZDjFwO-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nEzHigjqXRDDXlZDjFwO-4" target="nEzHigjqXRDDXlZDjFwO-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nEzHigjqXRDDXlZDjFwO-4" value="一般指令" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="379" y="415" width="100" height="30" as="geometry" />
