@@ -11,10 +11,10 @@
           <mxGeometry x="200" y="410" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nEzHigjqXRDDXlZDjFwO-3" value="风控专员" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="520" y="510" width="120" height="40" as="geometry" />
+          <mxGeometry x="540" y="505" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="nEzHigjqXRDDXlZDjFwO-4" value="一般指令" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="415" width="100" height="30" as="geometry" />
+          <mxGeometry x="390" y="415" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nEzHigjqXRDDXlZDjFwO-5" value="重要指令" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="510" width="100" height="30" as="geometry" />
