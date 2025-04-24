@@ -57,13 +57,13 @@
         <mxCell id="nEzHigjqXRDDXlZDjFwO-7" value="风控中心" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="724" y="410" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="nEzHigjqXRDDXlZDjFwO-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nEzHigjqXRDDXlZDjFwO-8" target="nEzHigjqXRDDXlZDjFwO-9">
+        <mxCell id="nEzHigjqXRDDXlZDjFwO-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF0000;" edge="1" parent="1" source="nEzHigjqXRDDXlZDjFwO-8" target="nEzHigjqXRDDXlZDjFwO-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nEzHigjqXRDDXlZDjFwO-8" value="指令处置，内容删除" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="600" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nEzHigjqXRDDXlZDjFwO-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nEzHigjqXRDDXlZDjFwO-9" target="nEzHigjqXRDDXlZDjFwO-10">
+        <mxCell id="nEzHigjqXRDDXlZDjFwO-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#FF0000;" edge="1" parent="1" source="nEzHigjqXRDDXlZDjFwO-9" target="nEzHigjqXRDDXlZDjFwO-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nEzHigjqXRDDXlZDjFwO-9" value="处置查验，确认删除状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
