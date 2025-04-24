@@ -31,6 +31,9 @@
         <mxCell id="nEzHigjqXRDDXlZDjFwO-9" value="处置查验，确认删除状态" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="510" y="660" width="180" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="nEzHigjqXRDDXlZDjFwO-10" value="结果反馈" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="510" y="710" width="180" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
